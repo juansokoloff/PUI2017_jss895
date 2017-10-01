@@ -1,5 +1,5 @@
 
-# Homewor 3 readme file.
+# Homework 3 readme.
 
 For the first assignment I worked wit Julián Ferreiro and Sarah. Sarah and I started exploring how to work with the distributions while Julián figured out the way to generate many distributions of one kind without having to create each of them individually. Once this was done we worked together to generate the different plots that were needed.
 
