@@ -1,5 +1,6 @@
 
 ### For the first assignment I had to work with Marium's repository. The pull request was accepted. (YOU WILL ALSO FIND THE RECOMENDATIONS I MADE IN THIS FOLDER)
+It is also to note that being 11.42 PM I have not yet received a pull request regarding my citibike HW3 proposal. 
 
 ### For assignment number 2 I worked with Prince and with Jack, in order to have the three tests on the table. We had some trouble identifying the control variable for the logistic test.
 
