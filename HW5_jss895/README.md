@@ -11,4 +11,4 @@ For this assignment I worked with Julián Ferreiro with help from Jack Lundquist
 
 ### Assignment 3.
 
-I also worked with Julián for this assignment and compared results with Jack and Prince. This was the easiest assignment to understand, nontheless it is ##IMPORTANT## to say that the datasets were not linked to an environmental variable (extracredit), so you will find them umploaded to the homework folder as well.
+I also worked with Julián for this assignment and compared results with Jack and Prince. This was the easiest assignment to understand, nontheless it is **IMPORTANT** to say that the datasets were not linked to an environmental variable (extracredit), so you will find them umploaded to the homework folder as well.
