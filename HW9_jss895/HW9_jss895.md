@@ -1,4 +1,4 @@
-![Alt text](Charlie_Moffet.png)
+![Alt text](Charlie_Moffet.PNG)
 
 ![Alt text](Hc_image.png)
 
