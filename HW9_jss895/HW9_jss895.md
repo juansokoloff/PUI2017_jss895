@@ -1,5 +1,4 @@
 ![Alt text](Charlie_Moffet.PNG)
 
-![Alt text](Hc_image.png)
+# Comments:
 
-![Alt text](yw3447_plot.png)
